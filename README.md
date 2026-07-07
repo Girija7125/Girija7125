@@ -20,7 +20,6 @@
 - 💡 I don't just follow instructions — I take ownership: identifying problems, proposing solutions, and delivering features end to end.
 - 🎯 Currently open to **Junior Backend Developer**, **Full Stack Developer**, or **Node.js Developer** roles — onsite or remote, anywhere in India.
 - 📫 Reach me at **girija.giri2k@gmail.com**
-- ⚡ Fun fact: I came from an Electrical Engineering background before falling in love with the MEAN stack!
 
 ---
 
